@@ -40,7 +40,7 @@ You can install the anonymization tool either directly via git, by cloning this 
        python3 deidentify.py [your flags]
 
 ### Installation via Docker
-Alternatively this tool is distributed via docker. You can find the docker images [here](https://hub.docker.com/repository/docker/morrempe/aam/general). The docker image is available for amd64 and arm64 platforms. 
+Alternatively this tool is distributed via docker. You can find the docker images [here](https://hub.docker.com/r/morrempe/hold). The docker image is available for amd64 and arm64 platforms.
 
 For the installation and execution of the docker image, you must have [Docker](https://docs.docker.com/get-docker/) installed on your system.
 
