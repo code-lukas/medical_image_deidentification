@@ -12,6 +12,13 @@
 
 This repository contains the **De-Identification of Medical Imaging Data: A Comprehensive Tool for Ensuring Patient Privacy**, which enables the user to anonymize a wide variety of medical imaging types, including Magnetic Resonance Imaging (MRI), Computer Tomography (CT), Ultrasound (US), Whole Slide Images (WSI) or MRI raw data (twix).
 
+<div align="center">
+
+![Overview](Figures/aam_pipeline-2.png)
+
+</div>
+
+
 This tool combines multiple anonymization steps, including metadata deidentification, defacing and skull-stripping while being faster than current state-of-the-art deidentification tools.
 
 ![Computationtimes](Figures/computation_times.png)
