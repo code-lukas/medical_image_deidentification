@@ -14,7 +14,7 @@ This repository contains the **De-Identification of Medical Imaging Data: A Comp
 
 AAM combines multiple anonymization steps, including metadata deidentification, defacing and skull-stripping while being faster than current state-of-the-art deidentification tools.
 
-![Computationtimes](Figures/computation_times.png)
+![Computationtimes](./Figures/computation_times.png)
 
 ## Getting started
 
