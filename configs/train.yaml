@@ -1,0 +1,7 @@
+model: convnext
+train_path: data/synthstrip_data_v1.4/train.csv
+val_path: data/synthstrip_data_v1.4/val.csv
+base_output: output
+lr: 1.0e-03
+
+comment: 

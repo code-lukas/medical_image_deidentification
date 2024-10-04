@@ -1,0 +1,7 @@
+model: mednext
+train_path: ../data/gbm/train.csv
+val_path: ../data/gbm/val.csv
+base_output: output
+lr: 5.0e-4
+
+comment: resample_gbmsynthstrip

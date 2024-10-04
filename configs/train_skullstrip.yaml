@@ -1,0 +1,7 @@
+model: mednext
+train_path: ../data/skullstrip/nfbs/train.csv
+val_path: ../data/skullstrip/nfbs/val.csv
+base_output: output
+lr: 5.0e-4
+
+comment: 
