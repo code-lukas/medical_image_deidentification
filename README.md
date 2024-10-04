@@ -1,4 +1,4 @@
-# Holistic Deidentification in Radiology (HolDeR)
+# De-Identification of Medical Imaging Data: A Comprehensive Tool for Ensuring Patient Privacy
 
 [![Python 3.11.2](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue)](https://www.python.org/downloads/release/python-3120/) 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
