@@ -3,6 +3,10 @@
 [![Python 3.11.2](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue)](https://www.python.org/downloads/release/python-3120/) 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+![Open Source Love][0c]
+
+[0c]: https://badges.frapsoft.com/os/v2/open-source.svg?v=103
+
 
 <div align="center">
 
