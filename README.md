@@ -1,3 +1,11 @@
+---
+
+>
+> :bangbang: This repository moved to https://github.com/TIO-IKIM/medical_image_deidentification. Please use the link to go to our maintained repository :bangbang:
+>
+
+---
+
 # De-Identification of Medical Imaging Data: A Comprehensive Tool for Ensuring Patient Privacy
 
 [![Python 3.11.2](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue)](https://www.python.org/downloads/release/python-3120/) 
